@@ -1,0 +1,10 @@
+C:\Users\hesam\source\repos\CalculateAge\CalculateAge\bin\Debug\CalculateAge.exe.config
+C:\Users\hesam\source\repos\CalculateAge\CalculateAge\bin\Debug\CalculateAge.exe
+C:\Users\hesam\source\repos\CalculateAge\CalculateAge\bin\Debug\CalculateAge.pdb
+C:\Users\hesam\source\repos\CalculateAge\CalculateAge\obj\Debug\CalculateAge.csprojAssemblyReference.cache
+C:\Users\hesam\source\repos\CalculateAge\CalculateAge\obj\Debug\CalculateAge.Form1.resources
+C:\Users\hesam\source\repos\CalculateAge\CalculateAge\obj\Debug\CalculateAge.Properties.Resources.resources
+C:\Users\hesam\source\repos\CalculateAge\CalculateAge\obj\Debug\CalculateAge.csproj.GenerateResource.cache
+C:\Users\hesam\source\repos\CalculateAge\CalculateAge\obj\Debug\CalculateAge.csproj.CoreCompileInputs.cache
+C:\Users\hesam\source\repos\CalculateAge\CalculateAge\obj\Debug\CalculateAge.exe
+C:\Users\hesam\source\repos\CalculateAge\CalculateAge\obj\Debug\CalculateAge.pdb
